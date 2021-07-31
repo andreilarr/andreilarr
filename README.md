@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @andreilarr
+- 👀 Estou interessado em aprender programação e criar games. 
+- 🌱 Atualmente estou aprendendo python.
+- 💞️ Procuro colaborar com criação de games e melhoria de códigos e programas.
+- 📫 Contato: andrei.larroque@hotmail.com / 53 981199033
